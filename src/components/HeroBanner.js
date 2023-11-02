@@ -1,5 +1,10 @@
+import { Image } from "react-bootstrap";
+
 export default function HeroBanner() {
   return (
-    <div>HeroBanner</div>
+    <>
+      <p>Something about how great Korean Beauty is</p>
+      <Image src="dropper-photo.jpg" fluid />
+    </>
   )
 }
