@@ -1,0 +1,5 @@
+.core-product {
+  background-image: url("../../public/dropper-landscape.jpg");
+  height: 95vh;
+  background-size: cover;
+}
