@@ -3,3 +3,9 @@
   height: 95vh;
   background-size: cover;
 }
+
+.body {
+  background-color: #faf1f0 !important;
+}
+
+/* primary pick hex color: #faf1f0 */

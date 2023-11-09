@@ -32,7 +32,7 @@ export default function Content() {
         </Carousel>
         <Row className="core-product align-items-center">
           <Col md={6}>
-            <Card>
+            <Card className="body">
               <Card.Title>
                 <h2 className="mt-5">
                   The Subscription
