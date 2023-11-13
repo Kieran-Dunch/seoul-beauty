@@ -2,7 +2,7 @@ import { Button, Container, Form } from "react-bootstrap";
 
 export default function EmailForm() {
   return (
-    <Container className="body-text rounded my-5">
+    <Container id='sign-up' className="body-text rounded my-5">
       <Form className="p-3">
         <h2>Join our email list to be the first to know!</h2>
         <Form.Group controlId="formEmail" className="mb-3 text-start">

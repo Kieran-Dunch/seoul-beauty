@@ -10,13 +10,17 @@ import Content from './components/Content';
 function App() {
   return (
     <div className="App">
+      <NavBar />
       <header>
-        <NavBar />
         <HeroBanner />
       </header>
-      <Content />
-      <EmailForm />
-      <Footer />
+      <main>
+        <Content />
+        <EmailForm />
+      </main>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
