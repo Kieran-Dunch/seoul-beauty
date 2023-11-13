@@ -1,0 +1,5 @@
+.hero-banner {
+  background-image: url('../../public/dropper-photo.jpg');
+  height: 95vh;
+  background-size: cover;
+}
