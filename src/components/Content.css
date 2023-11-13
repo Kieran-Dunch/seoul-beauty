@@ -4,8 +4,12 @@
   background-size: cover;
 }
 
-.body {
+.body-text {
   background-color: #faf1f0 !important;
+}
+
+.carousel-items {
+  height: 80vh;
 }
 
 /* primary pick hex color: #faf1f0 */
