@@ -2,7 +2,7 @@ import { Col, Container, Nav, Row } from "react-bootstrap";
 
 export default function Footer() {
   return (
-    <Container fluid className="py-4">
+    <Container fluid className="py-4 body-text">
       <Row>
         <Col className="px-4">
           <span><em>© 2023 Seoul Beauty</em></span>
