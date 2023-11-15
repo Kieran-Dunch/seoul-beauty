@@ -38,9 +38,9 @@
   }
 }
 
-/* --bs-body-color */
-/* change variable */
-
 :root {
   --bs-body-bg: #faf1f0 !important;
 }
+
+/* primary pick hex color: #faf1f0 */
+/* Try this one too f2e3ea */
