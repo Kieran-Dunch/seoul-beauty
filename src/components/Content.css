@@ -5,5 +5,29 @@
 }
 
 .carousel-items {
-  height: 80vh;
+  max-height: 80vh;
+}
+
+
+
+.column-image {
+  display: none;
+}
+
+.large-text {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .column-image {
+    display: block;
+  }
+
+  .small-text {
+    display: none;
+  }
+
+  .large-text {
+    display: block;
+  }
 }
