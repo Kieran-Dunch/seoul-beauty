@@ -57,7 +57,7 @@ export default function Content() {
         </Carousel.Item>
       </Carousel>
       <div id='products' className="core-product d-flex align-items-center">
-        <Col className="carousel-text">
+        <Col md={6} className="carousel-text">
           <Card className="body-text mx-5">
             <Card.Title>
               <h2 className="mt-5">
